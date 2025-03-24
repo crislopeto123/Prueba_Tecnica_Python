@@ -1,0 +1,4 @@
+Hola mundo.
+Este es un archivo de prueba.
+Hola otra vez.
+Adiós mundo.
